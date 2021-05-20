@@ -13,18 +13,19 @@ def gagal(no1,pro,nam):
 #--------------------------------MAIN---------------------------------------------------
 def main():
   print "%s[%s!%s] %sTarget locked >> %s%s"%(pu,me,pu,pu,ku,"+62"+nom)
-  t = 5
+  t = 1
   for spam in range(jum):
    print "%s[%s+%s]-------------------------->>>[%s%s%s]<<<--------------------------[%s+%s]"%(pu,ku,pu,me,t,pu,ku,pu)
-   t += 5
+   t += 1
    asakita();sunchila();nutriclub();asani();wintershop();datesy();thaifriendly();jumpstart();kinimart();klikwa();bakmikeraton();kopidulukala();kredinesia();pinjamindo();uangpintar();danafix();maucash();omamoriexpress();ktakilat();cairin();kredito();kreditpedia();bocil();duitqu();primacash();temanprima();maripinjam();sobatbangun()
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
   print """%s
-  __ __ ___  ___   __  __  ____   __                              
- | |/ / | | |   \  |    | |    | |  \  |%sAuthor by %sridwanszz15%s
- | |    | | | )  | | __ | |____| |   \ |%sGithub %sgithub.com/ridwanszz15%s
- |_|    |_| |___/  |/  \| |    | |    \|%sTeam %sSecretCreator%s
+               ¶¶¶¶¶¶  ¶¶¶¶¶¶¶¶¶¶    
+               ¶¶  ¶¶         ¶¶
+               ¶¶¶¶¶¶      ¶¶   
+               ¶¶  ¶¶   ¶¶       
+               ¶¶  ¶¶  ¶¶¶¶¶¶¶¶¶¶
  =======================================%sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
