@@ -299,3 +299,5 @@ if __name__ == '__main__':
   os.system("clear")
   logo()
   input()
+ except (KeyboardInterrupt,EOFError): print "%s[%s!%s] %sExit"%(pu,me,pu,pu)
+ except requests.exceptions.ConnectionError: exit("%s[%s!%s] %sConnection Error..."%(pu,me,pu,me))
