@@ -21,15 +21,11 @@ def main():
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
   print """%s
-                +++++++++++        +++++++++++++
- ||======================//================            (((())))
                ¶¶¶¶¶¶  ¶¶¶¶¶¶¶¶¶¶    
                ¶¶  ¶¶         ¶¶
                ¶¶¶¶¶¶      ¶¶   
                ¶¶  ¶¶   ¶¶       
-               ¶¶  ¶¶  ¶¶¶¶¶¶¶¶¶¶         
- !!==============//=================//=========================
-                 ++++++++++         ************               %sTools spam sms dan telp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
+               ¶¶  ¶¶  ¶¶¶¶¶¶¶¶¶¶
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
@@ -303,5 +299,3 @@ if __name__ == '__main__':
   os.system("clear")
   logo()
   input()
- except (KeyboardInterrupt,EOFError): print "%s[%s!%s] %sExit"%(pu,me,pu,pu)
- except requests.exceptions.ConnectionError: exit("%s[%s!%s] %sConnection Error..."%(pu,me,pu,me))
