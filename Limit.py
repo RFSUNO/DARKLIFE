@@ -13,10 +13,10 @@ def gagal(no1,pro,nam):
 #--------------------------------MAIN---------------------------------------------------
 def main():
   print "%s[%s!%s] %sTarget locked >> %s%s"%(pu,me,pu,pu,ku,"+62"+nom)
-  t = 1
+  t = 5
   for spam in range(jum):
    print "%s[%s+%s]-------------------------->>>[%s%s%s]<<<--------------------------[%s+%s]"%(pu,ku,pu,me,t,pu,ku,pu)
-   t += 1
+   t += 5
    asakita();sunchila();nutriclub();asani();wintershop();datesy();thaifriendly();jumpstart();kinimart();klikwa();bakmikeraton();kopidulukala();kredinesia();pinjamindo();uangpintar();danafix();maucash();omamoriexpress();ktakilat();cairin();kredito();kreditpedia();bocil();duitqu();primacash();temanprima();maripinjam();sobatbangun()
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
